@@ -1,0 +1,17 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2016/05/23 10:54:19
+StartRecordingIsDst_1=1
+StartRecordingGMT_2=2016/05/23 10:56:41
+StartRecordingIsDst_2=1
+StartRecordingGMT_3=2016/05/23 10:59:10
+StartRecordingIsDst_3=1
+StartRecordingGMT_4=2016/05/23 11:00:50
+StartRecordingIsDst_4=1
+StartRecordingGMT_5=2016/05/23 11:02:04
+StartRecordingIsDst_5=1
+StartRecordingGMT_6=2016/05/25 12:30:07
+StartRecordingIsDst_6=1
+StartRecordingGMT_7=2016/05/25 12:31:46
+StartRecordingIsDst_7=1
+[Security]
+UsingPersistForAuthentication=1
